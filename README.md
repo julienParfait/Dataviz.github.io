@@ -1,0 +1,1 @@
+Data visualisation with Plotly transforms complex data into interactive and intuitive graphics, making it easier to explore and communicate key information. With its powerful and versatile features, Plotly offers a wide range of visualisations suitable for a variety of fields, from science to business, while ensuring a better understanding of data for informed decision-making.
